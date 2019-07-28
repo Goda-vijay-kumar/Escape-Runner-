@@ -1,2 +1,2 @@
-# Escape-Runner-
-Player escapes from every danger step to save him from death.
+# Escaper
+Player escapes from every danger step to save himself from death.
